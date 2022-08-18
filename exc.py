@@ -11,8 +11,8 @@ import smtplib, ssl
 from email.message import EmailMessage
 
 port = 465
-email = 'emilyjohnson25099@gmail.com'
-password = "wlwzkvalbpwebxot"
+email = 'example@gmail.com'
+password = "password"
 
 wb = op.load_workbook(r'C:\Users\coder\Documents\Testing.xlsx')
 wa = wb.active
